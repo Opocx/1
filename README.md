@@ -1,1 +1,1 @@
-Quantumult X 自用重写
+Quantumult X 自用
